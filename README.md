@@ -26,10 +26,13 @@ Welcome to my GitHub profile! I'm a Computer Science student at the University o
 
 ### Databases:
 - **SQL** 🗃️
+- **Firebase** 🔥
 
 ### Tools and Technologies:
 - **Docker** 🐳
 - **Antlr** 📜
+- **Git** 🌱
+- **Jira** 📋
 
 <!---
 ## 🌟 Projects
