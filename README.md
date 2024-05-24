@@ -1,6 +1,14 @@
 # Hi there, I'm Arne! 👋
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=arnedepeuter&label=Profile%20views&color=0e75b6&style=flat" alt="arnedepeuter" /> </p>
 
 Welcome to my GitHub profile! I'm a Computer Science student at the University of Antwerp, with a passion for developing innovative solutions and exploring new technologies. Here's a bit about me and what I can do.
+
+<p align="center">
+  <img alt="Contributions" src="https://github.pumbas.net/api/contributions/ArneDePeuter?colour=fb8c00&bgColour=151515&dotColour=D04E4E" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=arnedepeuter&theme=dark&hide_border=true" width="45%">
+</p>
+
 
 ## 🚀 Skills
 
