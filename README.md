@@ -70,6 +70,12 @@
       <tr>
         <td>📜 Antlr</td>
         <td><img src="https://img.shields.io/badge/Familiar-lightgrey" alt="Familiar" /></td>
+        <td style="padding-left: 50px;">🛢️ Azure Blob Storage</td>
+        <td><img src="https://img.shields.io/badge/Familiar-lightgrey" alt="Familiar" /></td>
+      </tr>
+      <tr>
+        <td>🪣 Amazon S3</td>
+        <td><img src="https://img.shields.io/badge/Familiar-lightgrey" alt="Familiar" /></td>
         <td style="padding-left: 50px;"></td>
         <td></td>
       </tr>
