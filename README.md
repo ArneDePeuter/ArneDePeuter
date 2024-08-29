@@ -1,57 +1,87 @@
-# Hi there, I'm Arne! 👋
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=arnedepeuter&label=Profile%20views&color=0e75b6&style=flat" alt="arnedepeuter" /> </p>
-
-Welcome to my GitHub profile! I'm a Computer Science student at the University of Antwerp, with a passion for developing innovative solutions and exploring new technologies. Here's a bit about me and what I can do.
+<h1 align="center">Hi there, I'm Arne! 👋</h1>
+<p align="center">Computer Science student at the University of Antwerp, passionate about developing.</p>
 
 <p align="center">
-  <img alt="Contributions" src="https://github.pumbas.net/api/contributions/ArneDePeuter?colour=fb8c00&bgColour=151515&dotColour=D04E4E" width="45%">
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=arnedepeuter&theme=dark&hide_border=true" width="45%">
+  <img src="https://komarev.com/ghpvc/?username=arnedepeuter&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<!-- Contributions and Streak Stats -->
+<p align="center">
+  <img alt="Contributions" src="https://github.pumbas.net/api/contributions/ArneDePeuter?colour=fb8c00&bgColour=151515&dotColour=D04E4E" style="border-radius: 8px;"/>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=arnedepeuter&theme=dark&hide_border=true" style="border-radius: 8px;"/>
+</p>
 
 ## 🚀 Skills
 
-### Programming Languages:
-- **Python** 🐍
-- **C/C++** 💻
-- **Assembly** 🛠️
-- **VHDL** 🔧
-- **Matlab** 📊
-- **R** 📈
-
-### Web Development:
-- **React JS** ⚛️
-- **Tailwind CSS** 🎨
-
-### Databases:
-- **SQL** 🗃️
-- **Firebase** 🔥
-
-### Tools and Technologies:
-- **Docker** 🐳
-- **Antlr** 📜
-- **Git** 🌱
-- **Jira** 📋
-
-<!---
-## 🌟 Projects
-
-Here are a few projects that I'm proud of:
-
-- **[Project 1 Name](link-to-project)**: A brief description of the project, highlighting the main technologies used and the problem it solves.
-- **[Project 2 Name](link-to-project)**: Another project description, focusing on the unique aspects or the learning experience it provided.
-- **[Project 3 Name](link-to-project)**: Yet another project, emphasizing your role and contributions.
--->
+<p align="center">
+  <table align="center">
+    <thead>
+      <tr>
+        <th>Skill</th>
+        <th>Experience Level</th>
+        <th style="padding-left: 50px;">Skill</th>
+        <th>Experience Level</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>🐍 Python</td>
+        <td><img src="https://img.shields.io/badge/Expert-brightgreen" alt="Expert" /></td>
+        <td style="padding-left: 50px;">📊 Matlab</td>
+        <td><img src="https://img.shields.io/badge/Familiar-lightgrey" alt="Familiar" /></td>
+      </tr>
+      <tr>
+        <td>💻 C/C++</td>
+        <td><img src="https://img.shields.io/badge/Expert-brightgreen" alt="Expert" /></td>
+        <td style="padding-left: 50px;">📈 R</td>
+        <td><img src="https://img.shields.io/badge/Familiar-lightgrey" alt="Familiar" /></td>
+      </tr>
+      <tr>
+        <td>🟨 JavaScript</td>
+        <td><img src="https://img.shields.io/badge/Proficient-yellow" alt="Proficient" /></td>
+        <td style="padding-left: 50px;">⚛️ React JS</td>
+        <td><img src="https://img.shields.io/badge/Proficient-yellow" alt="Proficient" /></td>
+      </tr>
+      <tr>
+        <td>🛠️ Assembly</td>
+        <td><img src="https://img.shields.io/badge/Familiar-lightgrey" alt="Familiar" /></td>
+        <td style="padding-left: 50px;">⚛️ React Native</td>
+        <td><img src="https://img.shields.io/badge/Proficient-yellow" alt="Proficient" /></td>
+      </tr>
+      <tr>
+        <td>🔧 VHDL</td>
+        <td><img src="https://img.shields.io/badge/Familiar-lightgrey" alt="Familiar" /></td>
+        <td style="padding-left: 50px;">🎨 Tailwind CSS</td>
+        <td><img src="https://img.shields.io/badge/Proficient-yellow" alt="Proficient" /></td>
+      </tr>
+      <tr>
+        <td>🐘 PostgreSQL</td>
+        <td><img src="https://img.shields.io/badge/Expert-brightgreen" alt="Expert" /></td>
+        <td style="padding-left: 50px;">🐳 Docker</td>
+        <td><img src="https://img.shields.io/badge/Proficient-yellow" alt="Proficient" /></td>
+      </tr>
+      <tr>
+        <td>🌱 Git</td>
+        <td><img src="https://img.shields.io/badge/Expert-brightgreen" alt="Expert" /></td>
+        <td style="padding-left: 50px;">📋 Jira</td>
+        <td><img src="https://img.shields.io/badge/Proficient-yellow" alt="Proficient" /></td>
+      </tr>
+      <tr>
+        <td>📜 Antlr</td>
+        <td><img src="https://img.shields.io/badge/Familiar-lightgrey" alt="Familiar" /></td>
+        <td style="padding-left: 50px;"></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</p>
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/arne-de-peuter-4055a6267/)
-
-## 💬 Let's Collaborate!
-
-I'm always open to collaborating on interesting projects and learning new things. Feel free to reach out if you have an exciting idea or just want to chat about tech!
-
----
-
-Thank you for visiting my GitHub profile. Have a great day! 😊
+<p align="center">
+  <a href="https://www.linkedin.com/in/arne-de-peuter-4055a6267/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <!-- Add more social media links in a similar format -->
+</p>
