@@ -1,93 +1,77 @@
 <h1 align="center">Hi there, I'm Arne! 👋</h1>
-<p align="center">Computer Science student at the University of Antwerp, passionate about developing.</p>
+<p align="center">Computer Science student at the University of Antwerp, passionate about software development.</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arnedepeuter&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<!-- Contributions and Streak Stats -->
-<p align="center">
-  <img alt="Contributions" src="https://github.pumbas.net/api/contributions/ArneDePeuter?colour=fb8c00&bgColour=151515&dotColour=D04E4E" style="border-radius: 8px;"/>
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=arnedepeuter&theme=dark&hide_border=true" style="border-radius: 8px;"/>
-</p>
+---
 
-## 🚀 Skills
+### 📊 GitHub Stats
 
-<p align="center">
-  <table align="center">
-    <thead>
-      <tr>
-        <th>Skill</th>
-        <th>Experience Level</th>
-        <th style="padding-left: 50px;">Skill</th>
-        <th>Experience Level</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>🐍 Python</td>
-        <td><img src="https://img.shields.io/badge/Expert-brightgreen" alt="Expert" /></td>
-        <td style="padding-left: 50px;">📊 Matlab</td>
-        <td><img src="https://img.shields.io/badge/Familiar-lightgrey" alt="Familiar" /></td>
-      </tr>
-      <tr>
-        <td>💻 C/C++</td>
-        <td><img src="https://img.shields.io/badge/Expert-brightgreen" alt="Expert" /></td>
-        <td style="padding-left: 50px;">📈 R</td>
-        <td><img src="https://img.shields.io/badge/Familiar-lightgrey" alt="Familiar" /></td>
-      </tr>
-      <tr>
-        <td>🟨 JavaScript</td>
-        <td><img src="https://img.shields.io/badge/Proficient-yellow" alt="Proficient" /></td>
-        <td style="padding-left: 50px;">⚛️ React JS</td>
-        <td><img src="https://img.shields.io/badge/Proficient-yellow" alt="Proficient" /></td>
-      </tr>
-      <tr>
-        <td>🛠️ Assembly</td>
-        <td><img src="https://img.shields.io/badge/Familiar-lightgrey" alt="Familiar" /></td>
-        <td style="padding-left: 50px;">⚛️ React Native</td>
-        <td><img src="https://img.shields.io/badge/Proficient-yellow" alt="Proficient" /></td>
-      </tr>
-      <tr>
-        <td>🔧 VHDL</td>
-        <td><img src="https://img.shields.io/badge/Familiar-lightgrey" alt="Familiar" /></td>
-        <td style="padding-left: 50px;">🎨 Tailwind CSS</td>
-        <td><img src="https://img.shields.io/badge/Proficient-yellow" alt="Proficient" /></td>
-      </tr>
-      <tr>
-        <td>🐘 PostgreSQL</td>
-        <td><img src="https://img.shields.io/badge/Expert-brightgreen" alt="Expert" /></td>
-        <td style="padding-left: 50px;">🐳 Docker</td>
-        <td><img src="https://img.shields.io/badge/Proficient-yellow" alt="Proficient" /></td>
-      </tr>
-      <tr>
-        <td>🌱 Git</td>
-        <td><img src="https://img.shields.io/badge/Expert-brightgreen" alt="Expert" /></td>
-        <td style="padding-left: 50px;">📋 Jira</td>
-        <td><img src="https://img.shields.io/badge/Proficient-yellow" alt="Proficient" /></td>
-      </tr>
-      <tr>
-        <td>📜 Antlr</td>
-        <td><img src="https://img.shields.io/badge/Familiar-lightgrey" alt="Familiar" /></td>
-        <td style="padding-left: 50px;">🛢️ Azure Blob Storage</td>
-        <td><img src="https://img.shields.io/badge/Familiar-lightgrey" alt="Familiar" /></td>
-      </tr>
-      <tr>
-        <td>🪣 Amazon S3</td>
-        <td><img src="https://img.shields.io/badge/Familiar-lightgrey" alt="Familiar" /></td>
-        <td style="padding-left: 50px;"></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArneDePeuter&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=false&title_color=fb8c00&line=fb8c00&color=fb8c00&area_color=fb8c00&point=D04E4E&bg_color=151515" height="300" alt="activity-graph graph"  />
+</div>
 
-## 🌐 Connect with Me
+###
 
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArneDePeuter&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2" height="156" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ArneDePeuter&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="156" alt="streak graph"  />
+</div>
+
+---
+
+### 🚀 Tech Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
+</div>
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
   <a href="https://www.linkedin.com/in/arne-de-peuter-4055a6267/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
-  <!-- Add more social media links in a similar format -->
-</p>
+</div>
