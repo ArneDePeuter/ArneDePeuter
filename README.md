@@ -59,11 +59,15 @@
 
 ---
 
-### 📫 Connect with Me
+### 🌐 Profiles
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arne-de-peuter-4055a6267/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+  </a>
+  <br/>
+  <a href="https://leetcode.com/u/ArneDP/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png?20190719232544" height="35" alt="LeetCode" />
   </a>
 </div>
 
