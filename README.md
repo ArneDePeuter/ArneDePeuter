@@ -3,10 +3,10 @@
 </p>
 
 
-<h1 align="center">Hi there, I'm Arne! 👋</h1>
-<p align="center">Computer Science student at the University of Antwerp, passionate about software development.</p>
+<h1>Hi there, I'm Arne! 👋</h1>
+<p>Computer Science student at the University of Antwerp, passionate about software development.</p>
 
-<div align="center">
+<div>
   <a href="https://leetcode.com/u/ArneDP/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
   </a>
@@ -17,7 +17,7 @@
 
 ---
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArneDePeuter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -26,7 +26,7 @@
 
 ### 🚀 Tech Stack
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c" />
