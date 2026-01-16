@@ -18,7 +18,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArneDePeuter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArneDePeuter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
+    <img src="https://nirzak-streak-stats.vercel.app/?user=ArneDePeuter&theme=dark&hide_border=false" height="150" alt="github stats"  />
 </div>
 
 
