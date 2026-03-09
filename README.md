@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi there, I'm Arne! 👋</h1>
-<p align="center">Computer Science student at the University of Antwerp, passionate about software development.</p>
+<p align="center">Computer Science student at the University of Antwerp</p>
 
 <div align="center">
   <a href="https://leetcode.com/u/ArneDP/" target="_blank">
