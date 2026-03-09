@@ -15,17 +15,14 @@
   </a>
 </div>
 
----
-
-<div align="center">
+<!-- <div align="center"> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArneDePeuter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
-    <img src="https://nirzak-streak-stats.vercel.app/?user=ArneDePeuter&theme=dark&hide_border=false" height="150" alt="github stats"  />
-</div>
+  <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=ArneDePeuter&theme=dark&hide_border=false" height="150" alt="github stats"  /> -->
+<!-- </div> -->
 
 
----
-
-<h2 align="center">🚀 Tech Stack</h2>
+<!-- <h2 align="center">🚀 Tech Stack</h2> -->
+<br/>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
